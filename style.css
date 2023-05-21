@@ -1,0 +1,26 @@
+h1{
+    text-transform: uppercase;
+    font-family: 'Caveat', cursive;
+    color: white;
+    font-size: 2rem;
+}
+
+body{
+    background-color: black;
+}
+p{
+    color: white;
+    font-family: 'Caveat', cursive;
+}
+img{
+    border: 5px solid white;
+    width: 100%;
+
+}
+
+Div{
+    text-align: center;
+    margin-left: 25%;
+    width: 50%;
+    margin-top: 30px;
+}
